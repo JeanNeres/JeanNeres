@@ -19,4 +19,4 @@
 <img align="center" alt= "html5" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div> </br>
 
-Apaixonado por tecnologia, estudando para mudar a minha vida atraves de programação por isso sigo em busca do aprendizado e o conhecimento.
+Apaixonado por tecnologia, estudando para mudar a minha vida atraves de programação por isso sigo em busca do aprendizado e do conhecimento.

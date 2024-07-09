@@ -19,7 +19,3 @@
 <img align="center" alt= "html5" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div> </br>
 
-Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas em busca de oportunidades para ganhar experiência na área de desenvolvimento de software. Tenho conhecimentos em diversas tecnologias, incluindo JavaScript, TypeScript, NodeJs, PostgreSQL, MongoDB, React e jQuery.
-Em relação ao JavaScript e TypeScript, possuo conhecimentos em ambas as linguagens, sendo capaz de criar aplicações front-end e back-end com facilidade. Já trabalhei com o NodeJs em projetos que envolviam a criação de APIs RESTful e tenho conhecimento no uso do PostgreSQL e MongoDB como bancos de dados relacionais e não relacionais, respectivamente.
-Também tenho conhecimento em React, um dos frameworks mais utilizados para desenvolvimento front-end atualmente, bem como no jQuery, uma biblioteca JavaScript que facilita a manipulação de documentos HTML.
-Procuro uma oportunidade de estágio ou cargo júnior para desenvolver ainda mais minhas habilidades e adquirir novos conhecimentos em tecnologias relacionadas ao desenvolvimento de software. Sou dedicado, comprometido e estou sempre em busca de desafios para aprimorar minhas habilidades.
